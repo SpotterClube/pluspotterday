@@ -17,7 +17,7 @@ baseurl: "/pluspotterday"
 url: "https://spotterclube.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-70369466-1"
-googleAnalyticsSiteUrl: "spotterclubemg.github.io"
+googleAnalyticsSiteUrl: "spotterclube.github.io"
 #siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info

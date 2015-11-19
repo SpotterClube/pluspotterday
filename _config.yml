@@ -12,13 +12,13 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "PLU Spotter Day 2015"
 email: "spotterclubemg@gmail.com"
-description: " O #PLUSpotterDay 2015 é um evento que reunirá os amantes da aviação no tradicional Aeroporto da Pampulha (SBBH), em Belo Horizonte."
+description: "O #PLUSpotterDay 2015 é um evento que reunirá os amantes da aviação no tradicional Aeroporto da Pampulha (SBBH), em Belo Horizonte."
 baseurl: "/pluspotterday"
 url: "https://spotterclube.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-70369466-1"
 googleAnalyticsSiteUrl: "spotterclube.github.io"
-#siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "Spotter Clube MG"

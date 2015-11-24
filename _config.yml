@@ -44,10 +44,6 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Programação"}
-# - {permalink: "/speakers/", text: "Speakers"}
-# - {permalink: "/team/", text: "Team"}
-# - {permalink: "/logistics/", text: "Logistics"}
-# - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {permalink: "/#tickets", text: "Inscreva-se"}
 rightNavigationButtons:
@@ -55,42 +51,31 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-#heroTitle: "GDG DevFest <typeout> 2014"
 heroTitle: "#PLUSpotterDay <typeout> 2015"
 eventDate: "5 de dezembro de 2015"
-#typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-#typeoutFallback: "Season"
 heroButtons:
  - {permalink: "/#tickets", text: "Inscreva-se"}
-# - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "Sobre o #PLUSpotterDay 2015"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Plane Spotting", image: "torre-plu.jpg", text: "Acesso a áreas exclusivas de SBBH aos spotters, proporcionando um olhar diferenciado do aeroporto!" }
+ - {title: "Networking", image: "workshop.jpg", text: "Um dia inteiro dedicado à observação e fotografia de aeronaves, com intensa troca de experiências entre os spotters!" }
+ - {title: "Integração", image: "cabine-ejet-az.jpg", text: "frente a frente com a tradicional comunidade aeronáutica de Belo Horizonte." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {specialCharacter: "+", count: "100", info: "spotters", detail: "no #CNFSpotterDay 2015"}
+ - {count: "9", specialCharacter: "+", info: "horas", detail: "de evento"}
+ - {count: "2", specialCharacter: "", info: "spotting points", detail: "para registrar os melhores ângulos"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
-
-# Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+latestNewsTitle: "Últimas notícias"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
+locationBlockTitle: "Localização"
+eventLocationName: "Aeroporto de Belo Horizonte/Pampulha - Carlos Drummond de Andrade"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
 eventStreetAddress: "22 Teatral'na St"
 eventAddressLocality: "Lviv"
@@ -105,83 +90,78 @@ mapCenterCoordinates: "49.842537, 24.025701"
 mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Complexo Aeroportuário"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
-
-# Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+venueTitle: "Aeroporto da Pampulha<br />(IATA: PLU / ICAO: SBBH)"
+venueFeatures: ["Dimensões da Pista (13/31): 2.364 m x 45 m", "Capacidade/ano: 2,2 milhões de passageiros", "Distante 8,3 km do Centro de Belo Horizonte"]
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organizadores"
+partnersTitle: "Parceiros"
+partnersC4sponsorsButton: "Seja um Patrocinador!"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
+subscribeTitle: "Registre-se para participar do #PLUSpotterDay 2015"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Registros serão limitados. Somente os spotters devidamente registrados e confirmados terão acesso ao evento."
+
 
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://instagram.com/spotterclubemg", icon: "instagram"}
+ - {link: "https://facebook.com/spotterclubemg", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://www.facebook.com/spotterclubemg/", text: "fb.com/SpotterClubeMG"}
  -
-  title: "Contacts"
+  title: "Contatos"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:spotterclubemg@gmail.com", text: "spotterclubemg@gmail.com"}
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/codigo/", text: "Código de Conduta"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Últimas notícias"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "pluspotterday2015"
 
 # Speakers List Block
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+teamBlockTitle: "Sobre nós"
+aboutUs: "O Spotter Clube MG é formado por aficcionados pela aviação, como você! Faça parte dessa família também, inscreva-se já e se torne um associado."
+
 
 # Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
-findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
+findWayTitle: "Descubra seu caminho aqui"
+findWayDistance: "Distância"
+findWayDriving: "DIRIGINDO"
+findWayWalking: "CAMINHANDO"
+findWayBicycling: "PEDALANDO"
+findWayTransit: "TRÂNSITO"
+findWayFindFlight: "Encontre o Voo"
 logisticsMapCenterCoordinates: "49.056728, 3.117289"
 logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Conheça Belo Horizonte"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Do Aeroporto", information: 'O Aeroporto Internacional Tancredo Neves / Confins (CNF/SBCF) é a principal porta de entrada da capital mineira, sendo origem e destino de boa parte dos voos comerciais. É acessível por ônibus, taxi ou veículos particulares.'}
+ - {title: "Transporte Público", information: 'Google Transit está disponível em Belo Horizonte. Encontre suas rotas facilmente com o Google Maps.'}
+ - {title: "Hotéis", information: 'Beagás possui várias opções de hospedagem com preços acessíveis e boa localização.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
@@ -231,19 +211,19 @@ prizes:
  - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
 
 # Hackathon Location Block
-hackathonLocationBlockTitle: "Location"
+hackathonLocationBlockTitle: "Localização"
 hackathonLocationName: "Communa"
 hackathonLocationLink: "http://communa.net.ua/"
 hackathonStreetAddress: "1 Halytska St"
 hackathonAddressLocality: "Lviv"
 hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
+hackathonPostalCode: "31270-705"
+hackathonAddressCountry: "Brasil"
 hackathonTimeTitle: "Hack through"
 hackathonStartTime: "2014-10-24T10:00"
-hackathonDoorTime: "09:00"
+hackathonDoorTime: "07:00"
 hackathonEndTime: "2014-10-25T00:00"
-viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+viewOnMap: "Ver no Google Maps"
+hackathonPlaceCoordinates: "-19.8498475, -43.9548899"
+hackathonMapCenterCoordinates: "-19.8498475, -43.9548899"
+hackathonMapMobileCenterCoordinates: "-19.8498475, -43.9548899"

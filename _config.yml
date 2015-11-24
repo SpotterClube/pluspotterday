@@ -142,26 +142,25 @@ showSessions: true
 teamBlockTitle: "Sobre nós"
 aboutUs: "O Spotter Clube MG é formado por aficcionados pela aviação, como você! Faça parte dessa família também, inscreva-se já e se torne um associado."
 
-
 # Logistics Find Way Block
-findWayTitle: "Descubra seu caminho aqui"
-findWayDistance: "Distância"
-findWayDriving: "DIRIGINDO"
-findWayWalking: "CAMINHANDO"
-findWayBicycling: "PEDALANDO"
-findWayTransit: "TRÂNSITO"
-findWayFindFlight: "Encontre o Voo"
+findWayTitle: "Find your way here"
+findWayDistance: "Distance"
+findWayDriving: "DRIVING"
+findWayWalking: "WALKING"
+findWayBicycling: "BICYCLING"
+findWayTransit: "TRANSIT"
+findWayFindFlight: "Find Flight"
 logisticsMapCenterCoordinates: "49.056728, 3.117289"
 logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Conheça Belo Horizonte"
+directionDetailsTitle: "Get around Lviv"
 directionDetailsCards:
- - {title: "Do Aeroporto", information: 'O Aeroporto Internacional Tancredo Neves / Confins (CNF/SBCF) é a principal porta de entrada da capital mineira, sendo origem e destino de boa parte dos voos comerciais. É acessível por ônibus, taxi ou veículos particulares.'}
- - {title: "Transporte Público", information: 'Google Transit está disponível em Belo Horizonte. Encontre suas rotas facilmente com o Google Maps.'}
- - {title: "Hotéis", information: 'Beagás possui várias opções de hospedagem com preços acessíveis e boa localização.'}
+ - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+ - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
+ - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
@@ -211,19 +210,19 @@ prizes:
  - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
 
 # Hackathon Location Block
-hackathonLocationBlockTitle: "Localização"
+hackathonLocationBlockTitle: "Location"
 hackathonLocationName: "Communa"
 hackathonLocationLink: "http://communa.net.ua/"
 hackathonStreetAddress: "1 Halytska St"
 hackathonAddressLocality: "Lviv"
 hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "31270-705"
-hackathonAddressCountry: "Brasil"
+hackathonPostalCode: "79000"
+hackathonAddressCountry: "Ukraine"
 hackathonTimeTitle: "Hack through"
 hackathonStartTime: "2014-10-24T10:00"
-hackathonDoorTime: "07:00"
+hackathonDoorTime: "09:00"
 hackathonEndTime: "2014-10-25T00:00"
-viewOnMap: "Ver no Google Maps"
-hackathonPlaceCoordinates: "-19.8498475, -43.9548899"
-hackathonMapCenterCoordinates: "-19.8498475, -43.9548899"
-hackathonMapMobileCenterCoordinates: "-19.8498475, -43.9548899"
+viewOnMap: "View on Google Maps"
+hackathonPlaceCoordinates: "49.840999, 24.031144"
+hackathonMapCenterCoordinates: "49.840696, 24.028754"
+hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"

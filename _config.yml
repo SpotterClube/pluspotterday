@@ -74,8 +74,8 @@ statisticBlock:
 latestNewsTitle: "Últimas notícias"
 
 # Location Block
-locationBlockTitle: "Localização"
-eventLocationName: "Aeroporto de Belo Horizonte/Pampulha - Carlos Drummond de Andrade"
+locationBlockTitle: "Location"
+eventLocationName: "Conference Hall"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
 eventStreetAddress: "22 Teatral'na St"
 eventAddressLocality: "Lviv"

@@ -111,7 +111,7 @@ subscribeInfo: "Registros serão limitados. Somente os spotters devidamente regi
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://instagram.com/spotterclubemg", icon: "instagram"}
+# - {link: "https://instagram.com/spotterclubemg", icon: "instagram"}
  - {link: "https://facebook.com/spotterclubemg", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
@@ -126,7 +126,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/codigo/", text: "Código de Conduta"}
+   - {permalink: "/codigo-de-conduta/", text: "Código de Conduta"}
 
 # Blog
 blogTitle: "Últimas notícias"

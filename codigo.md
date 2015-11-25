@@ -15,6 +15,6 @@ Se alguém o estiver incomodando, por favor entre em contato imediatamente com o
 
 ######Contatos:
 
-- Eduardo Cabrera, +55(31) 99107-1767 , [spotterclubemg@gmail.com](mailto:spotterclubemg@gmail.com)
+- Eduardo Cabrera, +55(31) 99107-1767 , [ecabrera@infraero.gov.br](mailto:ecabrera@infraero.gov.br)
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">

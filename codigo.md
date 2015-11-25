@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Código de Conduta no #PLUSpotterDay 2015
+title: Código de Conduta no PLU Spotter Day 2015
 permalink: /codigo-de-conduta/
 isStaticPost: true
 ---
@@ -14,12 +14,12 @@ O Spotter Clube MG se orgulha em poder organizar um evento para todos os apaixon
 * exibir pornografia em público;
 * tocar nas pessoas sem o devido consentimento, ou continuar interagindo com alguém que já tenha solicitado para que não o faça. 
 
-Comportamentos indevidos como estes poderão resultar em expulsão do evento e/ou do Spotter Clube MG.
+#### Comportamentos indevidos como estes poderão resultar em expulsão do evento e/ou do Spotter Clube MG.
 
 Se alguém o estiver incomodando, por favor entre em contato imediatamente com os organizadores do #PLUSpotterDay e eles cuidaram disso. Nós desejamos manter um evento de alto nível, e para isso contamos com a colaboração de todos.
 
 
-######Contatos:
+###### Contatos:
 
 - Eduardo Cabrera, +55(31) 99107-1767 , [ecabrera@infraero.gov.br](mailto:ecabrera@infraero.gov.br)
 

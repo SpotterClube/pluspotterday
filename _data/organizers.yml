@@ -1,7 +1,7 @@
 - 
   group: "Organizador principal"
   elements: 
-    - {name: "Spotter Clube MG", description: "Spotter Clube MG - Associação de observadores de aeronaves, sem fins lucrativos.", link: "http://facebook.com/spotterclubemg", imageUrl: "logo.png"}
+    - {name: "Spotter Clube MG", description: "Spotter Clube MG - Associação de observadores de aeronaves, sem fins lucrativos.", link: "http://facebook.com/spotterclubemg", imageUrl: "spotter-clube-mg.svg"}
 - 
  # group: "Co-organizadores"
  # elements: 

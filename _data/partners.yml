@@ -1,5 +1,5 @@
 - 
-  group: "Patrocinador"
+  group: "Parceiro principal"
   elements: 
     - {name: "Infraero", description: "Infraero", link: "https://www.infraero.gov.br/", imageUrl: "infraero.svg"}
 #    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}

@@ -7,7 +7,7 @@ O #PLUSpotterDay 2015 é um evento que reunirá os amantes da aviação no tradi
 * Um dia inteiro dedicado à observação e fotografia de aeronaves, com intensa troca de experiências entre os spotters!
 * Frente a frente com a tradicional comunidade aeronáutica de Belo Horizonte.
 
-### Site do Evento http://gdg-x.github.io/zeppelin/
+### Site do Evento http://spotterclube.github.io/pluspotterday
 
 Site desenvolvido à partir do [Project Zeppelin](https://github.com/gdg-x/zeppelin/) do Google Developers Group (GDG).
 

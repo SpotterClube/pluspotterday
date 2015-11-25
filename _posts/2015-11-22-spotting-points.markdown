@@ -20,8 +20,7 @@ Ponto de encontro: Varanda panorâmica. Depois seguiremos pela Sala de Embarque 
 
 <strong>OBS.: uso de identificação, que será fornecida no ponto de encontro. Será necessário o uso de proteção auricular e coletes refletivos. Para acessar o PONTO 2, cada spotter deverá providenciar o seu próprio colete refletivo, conforme modelo na figura abaixo.</strong>
 
-![alt text][figura3]
+<img class="img-responsive feature-image" src="https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/12301505_1644000455887806_1194748699687766679_n.jpg?oh=b35e60b81d2fc99bd37791942431de02&oe=56AF4BD8&__gda__=1454409959_4a91dade02c6ce5383931ba645f3a542" alt="Coletes reflexivos">
 
 [figura1]: https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xfl1/v/t1.0-9/12289511_1644000425887809_8305817823465296858_n.jpg?oh=d1340450ce1bb8100fe952fc7d3064e3&oe=56AD4C99&__gda__=1458195164_584930b85fae9bd2068c8d44b41be49e "Ponto 1"
 [figura2]: https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/12310490_1644000435887808_7753091409327274972_n.jpg?oh=e8d6b876c8b9b51c01da6b9a79b53b2e&oe=56F694A9&__gda__=1459118073_04b30591ce9e3bc5d648cf4e9a1ed91d "Ponto 2"
-[figura3]: https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/12301505_1644000455887806_1194748699687766679_n.jpg?oh=b35e60b81d2fc99bd37791942431de02&oe=56AF4BD8&__gda__=1454409959_4a91dade02c6ce5383931ba645f3a542 "Coletes reflexivos"

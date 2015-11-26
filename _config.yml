@@ -23,7 +23,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "Spotter Clube MG"
 organizerAlternateName: "Spotter Clube MG"
 organizerDescription: "O Spotter Clube MG é uma associação que visa a união entre os spotters."
-organizerEmail: "spotterclubemg@gmail.com"
+organizerEmail: "ecabrera@infraero.gov.br"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://spotterclube.github.io"
 
@@ -75,7 +75,6 @@ latestNewsTitle: "Últimas notícias"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "JUMP Brasil"
-eventLocationLink: "https://www.google.com/maps/place/JUMP+Brasil+-+Aceleradora+de+Neg%C3%B3cios/@-8.0524415,-34.8823481,17z/data=!3m1!4b1!4m2!3m1!1s0x7ab18940c93b185:0x8643bd576b6e95cc"
 eventStreetAddress: "R. Cap. Lima, 420 - Santo Amaro"
 eventAddressLocality: "Recife"
 eventAddressLocalityRegion: "Pernambuco"
@@ -111,7 +110,6 @@ subscribeInfo: "Registros serão limitados. Somente os spotters devidamente regi
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
-# - {link: "https://instagram.com/spotterclubemg", icon: "instagram"}
  - {link: "https://facebook.com/spotterclubemg", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:

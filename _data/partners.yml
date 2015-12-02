@@ -1,7 +1,7 @@
 - 
-  group: "Parceiro principal"
+  group: "Principais parceiros"
   elements: 
-    - {name: "Infraero", description: "Infraero", link: "http://www.infraero.gov.br/", imageUrl: "infraero.svg"}
+    - {name: "Infraero", description: "Empresa Brasileira de Infraestrutura Aeroportuária - Empresa pública responsável pela administração (total ou em parceria com a iniciativa privada) dos aeroportos mais importantes do Brasil.", link: "http://www.infraero.gov.br/", imageUrl: "infraero.svg"}
     - {name: "CIAAR", description: "Centro de Instrução e Adaptação da Aeronáutica - AD STELLAS DOCERE, educar para as estrelas", link: "http://www2.fab.mil.br/ciaar/", imageUrl: "ciaar.jpg"}
 #- 
 #  group: "With support of"

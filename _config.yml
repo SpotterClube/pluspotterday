@@ -111,6 +111,7 @@ subscribeInfo: "Registros serão limitados. Somente os spotters devidamente regi
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://facebook.com/spotterclubemg", icon: "facebook"}
+ - {link: "https://www.youtube.com/channel/UCWQ8Ohw9s7GsTiOS81x-dbA", icon: "youtube"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -

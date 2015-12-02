@@ -25,7 +25,7 @@ organizerAlternateName: "Spotter Clube MG"
 organizerDescription: "O Spotter Clube MG é uma associação que visa a união entre os spotters."
 organizerEmail: "ecabrera@infraero.gov.br"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "https://spotterclube.github.io"
+organizerLink: "https://fb.com/spotterclubemg"
 
 # Head
 metaKeywords: "evento, plu, spotter, spotterday, spotting, pampulha, belo horizonte, sbbh, minas gerais"
@@ -42,7 +42,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Programação"}
+ - {permalink: "/programacao/", text: "Programação"}
 bottomNavigationLinks:
  - {permalink: "/#tickets", text: "Inscreva-se"}
 rightNavigationButtons:

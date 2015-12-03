@@ -112,6 +112,7 @@ socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://facebook.com/spotterclubemg", icon: "facebook"}
  - {link: "https://www.youtube.com/channel/UCWQ8Ohw9s7GsTiOS81x-dbA", icon: "youtube"}
+  - {link: "https://www.flickr.com/photos/131749357@N07/", icon: "flickr"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -

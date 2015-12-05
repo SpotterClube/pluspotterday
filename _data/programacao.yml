@@ -2,19 +2,28 @@
   date: "2015-12-05"
   dateReadable: "5 de Dezembro"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+    - {
+        title: "Ponto 1", 
+        color: "#90be4e"
+    }
+    - {
+        title: "CIAAR", 
+        color: "#03a9f4"
+    }
+    - {
+        title: "Ponto 2", 
+        color: "#e91e63"
+    }
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
+    	startTime: "07:00",
+    	endTime: "10:30",
+    	sessionIds: [001]
     }
     - {
         startTime: "11:00",
         endTime: "11:45",
-        sessionIds: [003, 404, 004]
+        sessionIds: [004]
     }
     - {
     	startTime: "12:00",
